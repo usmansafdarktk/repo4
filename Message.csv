@@ -1,0 +1,4 @@
+receiver_id,sender_id,sender_first_name,sender_last_name,content,pending
+4,5,Ayesha,Gull,"Laiba, I miss you!",False
+5,8,Ali,Rehman,Hi,False
+14,17,Ietazaz,Aslam,Hi!,False

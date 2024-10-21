@@ -1,0 +1,12 @@
+receiver_id,chosen_post_id,comment,sender_ID,sender_first_name,sender_last_name,pending
+8,3,I hope it goes well!,5,Ayesha,Gull,False
+5,2,Must be exciting.,4,laiba,iqbal,False
+5,1,No way!!,4,laiba,iqbal,False
+5,1,Hello.,4,laiba,iqbal,False
+14,1,How about Lenovo Yoga?,4,laiba,iqbal,False
+14,8,Cool!,4,laiba,iqbal,False
+14,8,I want to buy.,3,Ayesha,Noor,False
+14,8,Nice work!,13,Malik,Jahan,False
+14,8,COOL,17,Ietazaz,Aslam,False
+4,10,I think it's lit!,14,Ayesha,Gull,True
+17,13,Wao!,14,Ayesha,Gull,True

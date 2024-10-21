@@ -1,0 +1,12 @@
+user_id,user_first_name,user_last_name,post_id,post_type,post_title,post_description,post_time,post_date,privacy_id,notification,recipients,page_id,file_path
+14,Ayesha,Gull,1,Image,New Laptop,I'm thinking of buying a new laptop.,14:53:31,2022-07-20,0,1,1,,C:/Users/Saifia/Dropbox/My PC (DESKTOP-7HOSIO0)/Downloads/goran-ivos-iacpoKgpBAM-unsplash.jpg
+14,Ayesha,Gull,3,Image,Nfts,Just buy some already.,21:21:24,2022-07-20,0,0,1,,C:/Users/Saifia/Dropbox/My PC (DESKTOP-7HOSIO0)/Downloads/bjorn-pierre-WhRGvt7USX4-unsplash.jpg
+14,Ayesha,Gull,4,Image,Nasa's Space Shuttle,Inside view of Nasa's Space Shuttle,21:22:15,2022-07-20,1,0,1,,C:/Users/Saifia/Dropbox/My PC (DESKTOP-7HOSIO0)/Downloads/nasa-cIX5TlQ_FgM-unsplash.jpg
+14,Ayesha,Gull,5,Image,ICPchips,Newly manufactured chips.,18:34:13,2022-07-21,0,0,1,2,C:/Users/Saifia/Dropbox/My PC (DESKTOP-7HOSIO0)/Downloads/photo-1617839625591-e5a789593135.jfif
+14,Ayesha,Gull,8,Image,New Chips,New chips with optimal performance.,04:36:13,2022-07-22,0,0,2,1,C:/Users/Saifia/Dropbox/My PC (DESKTOP-7HOSIO0)/Downloads/photo-1617839625591-e5a789593135.jfif
+14,Ayesha,Gull,9,Image,DLD Bootcamp,We are doing a two day bootcamp.,04:38:02,2022-07-22,0,0,2,1,C:/Users/Saifia/Dropbox/My PC (DESKTOP-7HOSIO0)/Downloads/enzo-tommasi-xTDRycxIlf8-unsplash.jpg
+4,laiba,iqbal,10,Image,New Setup,What do you think?,05:37:09,2022-07-22,0,2,2,,C:/Users/Saifia/Dropbox/My PC (DESKTOP-7HOSIO0)/Downloads/pakata-goh-RDolnHtjVCY-unsplash.jpg
+3,Ayesha,Noor,11,Image,Rayzen by AMD,One of the best for mobiles.,06:08:56,2022-07-22,0,0,0,1,C:/Users/Saifia/Dropbox/My PC (DESKTOP-7HOSIO0)/Downloads/olivier-collet-hLXTRAMuvBY-unsplash.jpg
+14,Ayesha,Gull,12,Image,HI,How are you?,11:06:03,2022-07-22,0,0,2,1,C:/Users/Saifia/Dropbox/My PC (DESKTOP-7HOSIO0)/Downloads/photo-1640622304233-7335e936f11b.jpg
+17,Ietazaz,Aslam,13,Image,Born to Shine,Nothing more to say,11:19:47,2022-07-22,0,0,0,,C:/Users/Saifia/Dropbox/My PC (DESKTOP-7HOSIO0)/Downloads/a2037c19-2606-4af4-b73d-73ea90cd5e59.jfif
+14,Ayesha,Gull,14,Image,Favorite YouTuber,Mine is Joma Tech. Yours?,12:18:18,2022-07-22,2,0,3,,C:/Users/Saifia/Dropbox/My PC (DESKTOP-7HOSIO0)/Downloads/charlesdeluvio-HmocsNZO1hs-unsplash.jpg
